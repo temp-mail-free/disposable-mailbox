@@ -15,6 +15,11 @@ A **self-hosted** disposable mailbox  service (aka trash mail)  :cloud: :envelop
 
 **Demo**: [disposable-mailbox.eu](https://www.disposable-mailbox.eu) 
 
+https://email10min.com/
+https://www.mailtemp.net/
+https://10minmailnet.com/
+https://email10min.net/
+https://tenminutesmail.net/
 
 ![Screenshot](docs/screenshot-example.jpg)
 
@@ -41,13 +46,6 @@ A **self-hosted** disposable mailbox  service (aka trash mail)  :cloud: :envelop
 * This is **Beta** software, [there are still unsolved problems](https://github.com/disposable-mailbox/disposable-mailbox/issues). Contributions are welcome! :heart:
 * License: **GPL-3.0**. You can modify this application and run it anywhere, charge money and show advertisement. Any forks or repacked distribution must follow the [GPL-3.0 license](https://opensource.org/licenses/GPL-3.0).  
 * A link to https://github.com/disposable-mailbox/disposable-mailbox in the footer is appreciated.  
-
-5 great 10 minute mail websites:
-https://email10min.com/
-https://www.mailtemp.net/
-https://10minmailnet.com/
-https://email10min.net/
-https://tenminutesmail.net/
 
 ### Installation
 
